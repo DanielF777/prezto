@@ -2,7 +2,7 @@
 # Defines Maven aliases.
 #
 # Authors:
-#   Daniel Foster <danel.foster262@gmail.com>
+#   Daniel Foster <daniel.foster262@gmail.com>
 #
 
 alias mi='mvn clean install'
