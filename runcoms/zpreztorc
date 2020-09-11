@@ -40,7 +40,8 @@ zstyle ':prezto:load' pmodule \
   'git' \
   'kubernetes' \
   'maven' \
-  'ide'
+  'ide' \
+  'flutter'
 
 #
 # Autosuggestions

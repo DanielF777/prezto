@@ -5,4 +5,4 @@
 #   Daniel Foster <daniel.foster262@gmail.com>
 #
 
-alias idea='open . -a /Applications/IntelliJ\ IDEA.app'
+alias idea='open . -a /Applications/IntelliJ\ IDEA\ CE.app'
