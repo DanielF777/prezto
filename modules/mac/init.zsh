@@ -1,0 +1,1 @@
+alias rebuildSpotlightIndex="mdutil -E /"
